@@ -8,7 +8,7 @@
 ### 🚀 Featured Projects
 
 <div align="center">
-<a href="https://github.com/OmKharade/Project1">
+<a href="https://github.com/OmKharade/PyVCS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OmKharade&repo=PyVCS&theme=dark" />
 </a>
 </div>
