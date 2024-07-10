@@ -44,21 +44,6 @@
 </p>
 
 
-### 📫 My Socials
-
-<p align="center">
-  <a href="www.linkedin.com/in/om-kharade-a0b920263" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="[https://twitter.com/KharadeO](https://x.com/KharadeO)" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:oskr6128@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="40" width="40" />
-  </a>
-</p>
 
 ---
 
