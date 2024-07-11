@@ -1,8 +1,8 @@
-<h1 align="center" style = "border: none">👋 Hello, I'm Om Kharade</h1>
+<h1 align="center">👋 Hello, I'm Om Kharade</h1>
 
 - build x in y from scratch
 - build to learn
-- buuld to show
+- build to show
 - build to ship
 
 ### 🚀 Featured Projects
